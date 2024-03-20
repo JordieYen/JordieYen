@@ -88,8 +88,8 @@ Welcome to my GitHub Page. I am Jordan Hii and a 42 KL graduate, I am a self-tau
 > Stats for my github usage over the years
 
  <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordieyen&show_icons=true&locale=en" height="196" alt="jordieyen" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joekeroo&hide_border=true&show_icons=truecount_private=true&layout=compact" height="196" alt="jordieyen's Most Used Languages"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordieyen&show_icons=true&locale=en&hide_border=true&theme=dracula" height="196" alt="jordieyen" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordieyen&hide_border=true&show_icons=truecount_private=true&layout=compact&theme=dracula" height="196" alt="jordieyen's Most Used Languages"/>
  </p>
 
 ## Socials
