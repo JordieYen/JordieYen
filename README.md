@@ -6,13 +6,13 @@
 <p></p>
 <p align="justify">
 Welcome to my GitHub Page. I am Jordan Hii and a 42 KL graduate, I am a self-taught developer with a solid foundation and hands-on experience in both data science and full-stack web development. Over the course of two years at 42, I honed my skills and developed a passion for finding optimal solutions to complex problems. I thrive on the challenges that come with coding and am committed to continuous learning in the dynamic field of technology.
-
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordieyen&label=Profile%20views&color=0e75b6&style=flat" alt="jordieyen" width="135"/> </p>
 
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with and am interested in.
 
 <table margin-left="20">
   <tr>
@@ -84,8 +84,27 @@ Welcome to my GitHub Page. I am Jordan Hii and a 42 KL graduate, I am a self-tau
 
 > 📫 Reach me at **jordanhiiky@gmail.com**
 
-<br>  
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordieyen&show_icons=true&locale=en" alt="jordieyen" /></p>
+## Github Stats
+> Stats for my github usage over the years
+
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordieyen&show_icons=true&locale=en" alt="jordieyen" /></p>
+
+## Socials
+
+> Reach me or find out more about me!
+
+<a href="mailto:jordanhiiky@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rezshakeri/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+
 
 <br><br>
 <img src="https://media.giphy.com/media/DuMFk3wJRpeDgCeDqp/giphy.gif" alt="👋 Hi there! I'm Jordan" title="👋 Hi there! I'm Jordan" width="1080"/>
