@@ -84,7 +84,7 @@ Welcome to my GitHub Page. I am Jordan Hii and a 42 KL graduate, I am a self-tau
 
 > 📫 Reach me at **jordanhiiky@gmail.com**
 
-## Github Stats
+## Github Stats 📈
 > Stats for my github usage over the years
 
  <p>
@@ -92,7 +92,7 @@ Welcome to my GitHub Page. I am Jordan Hii and a 42 KL graduate, I am a self-tau
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordieyen&hide_border=true&show_icons=truecount_private=true&layout=compact&theme=dracula" height="196" alt="jordieyen's Most Used Languages"/>
  </p>
 
-## Socials
+## Socials 👤
 
 > Reach me or find out more about me!
 
